@@ -1,0 +1,9 @@
+<div class="card mb-2">
+    <div class="card-header">
+        {{user}}
+        <span class="float-right">{{date}}</span>
+    </div>
+    <div class="card-body">
+        <p class="card-text">{{text}}</p>
+    </div>
+</div>
